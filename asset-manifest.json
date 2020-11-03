@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mid-term-retrospective/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/mid-term-retrospective/static/js/main.1d2bfbb0.chunk.js",
+    "main.js.map": "/mid-term-retrospective/static/js/main.1d2bfbb0.chunk.js.map",
+    "runtime-main.js": "/mid-term-retrospective/static/js/runtime-main.a78ffbcc.js",
+    "runtime-main.js.map": "/mid-term-retrospective/static/js/runtime-main.a78ffbcc.js.map",
+    "static/js/2.6f9acf78.chunk.js": "/mid-term-retrospective/static/js/2.6f9acf78.chunk.js",
+    "static/js/2.6f9acf78.chunk.js.map": "/mid-term-retrospective/static/js/2.6f9acf78.chunk.js.map",
+    "static/js/3.8c3e4ec8.chunk.js": "/mid-term-retrospective/static/js/3.8c3e4ec8.chunk.js",
+    "static/js/3.8c3e4ec8.chunk.js.map": "/mid-term-retrospective/static/js/3.8c3e4ec8.chunk.js.map",
+    "index.html": "/mid-term-retrospective/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/mid-term-retrospective/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6f9acf78.chunk.js.LICENSE.txt": "/mid-term-retrospective/static/js/2.6f9acf78.chunk.js.LICENSE.txt",
+    "static/media/google.dbea7bf3.svg": "/mid-term-retrospective/static/media/google.dbea7bf3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a78ffbcc.js",
+    "static/js/2.6f9acf78.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1d2bfbb0.chunk.js"
+  ]
+}
